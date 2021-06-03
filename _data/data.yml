@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: achuthadivine@gmail.com
     phone: +91-9986014033
-    website: blog.webjeda.com #do not add http://
+    website: achuthaa.blogspot.com/ #do not add http://
     linkedin: achutha-nanda-a9694b37
     github: Achuthananda
     telegram: # add your nickname without '@' sign
@@ -25,22 +25,19 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Kannada
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Automating
         link:
 
-      - item: Cooking
+      - item: Technical and Random Bloggging
         link:
 
 career-profile:
@@ -53,9 +50,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MTech in Computer Science
+      university: IIT Kharagpur
+      time: 2014 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,9 +61,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BE in Information Science
+      university: PES University
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
