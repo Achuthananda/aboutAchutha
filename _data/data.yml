@@ -80,28 +80,33 @@ experiences:
           - I implement DevOps Solutions for Akamai Customers to help them make use of the Akamai Platform in their DevOps Cycle and increase efficiency.   
           - Developed CLIs and python SDKs for several Akamai Product Offerings.
           - Deliver training on Akamai products and services to internal Akamai employees, to Akamai customers, and to Akamai consulting partners.
+          - Have written array of Technical Blogs to help customers and internal folks work efficiently with Akamai Products. 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2016 Aug - 2019 Feb
+      company: Cisco Systems , Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I worked as Software Developer on 802.11 Access Points and Wireless LAN Controller.
+          - Network Assurance of WLC.
+          - Extensive work on the implementing and debugging of SNMP Module of WLC.
+          - CLI Development of new features on the device.
+          - Maintenance of features like EOGRE, Mobility, CDP.
+          - Contibuted to the development of Open Source Simulator for OFDMA/802.11ax type of system[https://github.com/cisco/ns3-802.11ax-simulator].
+    - role: Intern
+      time: 2015 May - 2015 Oct
+      company: Cisco Systems, Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I worked as Software Developer Intern on Cisco SDN Solution for Protocol Independent SDN Switches.
+          - Implementation of P4 Interpreter to the proprietary language used by Cisco SDK.
+          - Separation of single monolithic structure of the Cisco SDN SDK.
+          - Dynamic generation of Yang models for the new protocols which will be used to manage the network devices.
+    - role: Senior Software Engineer
+      time: 2010 Aug - 2013 Dec
+      company: Cisco Systems, Bengaluru
+      details: |
+        I worked as Software Developer working on UPnP and DLNA for Samsung Smart Devices of Home Network.
+          - Worked on implementing UPnP based framework, which provides an easier way to connect and communicate between the smart devices in the home network on Android Phones, Tizen Phonesand Samsung Smart TVs.
+          - Worked on Commercialization of Samsung Smart TVs, Samsung Set-top Boxes and Flagship phones like Galaxy S2..
+          - Appreciated by Korean counterparts of Samsung during 4 business trips for On-time delivery of modules with great quality, pressure handling and extensive customer service and support..
 projects:
     title: Projects
     intro: >
