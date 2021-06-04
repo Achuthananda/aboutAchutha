@@ -75,14 +75,11 @@ experiences:
       company: Akamai Technologies , Bengaluru
       details: |
         I work as a Technical Consultant of Akamai CDN products in Web, Media, and Security space to meet customer’s business and technical requirements. 
-        To Analyze Customer's Web Application Architecture and to design & implement a customized solution to maximize their utilization of the Akamai platform.
-        To analyze Customer's Media Delivery(Live and Vod) Architecture. To design & implement a customized solution to deliver live and vod content via the Akamai Platform.
-        To implement DevOps Solutions for Akamai Customers to help them make use of the Akamai Platform in their DevOps Cycle and increase efficiency.
-        To Develop tools and Review Tools[Member of GSS Tools Council] which will automate the everyday work of Solution Architects to increase efficiency.
-        Developed CLIs and python SDKs for several Akamai Product Offerings.
-        Deliver training on Akamai products and services to internal Akamai employees, to Akamai customers, and to Akamai consulting partners.
-          - Bullet point
-          - Bullet point
+          - I Analyze Customer's Web Application Architecture and to design & implement a customized solution to maximize their utilization of the Akamai platform.
+          - I analyze Customer's Media Delivery(Live and Vod) Architecture. To design & implement a customized solution to deliver live and vod content via the Akamai Platform.
+          - I implement DevOps Solutions for Akamai Customers to help them make use of the Akamai Platform in their DevOps Cycle and increase efficiency.   
+          - Developed CLIs and python SDKs for several Akamai Product Offerings.
+          - Deliver training on Akamai products and services to internal Akamai employees, to Akamai customers, and to Akamai consulting partners.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
