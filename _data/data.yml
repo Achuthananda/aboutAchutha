@@ -110,9 +110,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are few of my hobby projects to list down done to ease my life or to keep myself busy.
     assignments:
       - title: Fitness Class Auto Booker
         link: "#"
