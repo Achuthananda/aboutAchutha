@@ -114,7 +114,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Auto Gym Class Booker
+      - title: Fitness Class Auto Booker
         link: "#"
         tagline: "A major chunk of my time in the day was spent in looking at the classes of my fitness center and deciding what to book.This Project of mine aimed to reduce the time spent by booking the classes automatically and blocking my google calender."
 
@@ -135,20 +135,18 @@ projects:
         tagline: "The project was to aim bulk voting for any contestant in a popular reality show. This project did make use of un-implemnted rate controls of the website."
 
       - title: URL Shortner
-        link: "http://bitxxly.appspot.com/ "
+        link: "http://bitxxly.appspot.com"
         tagline: "Yet another URL Shortner for a Semester Assignment @IIT Kharagpur. This is deployed on Google App Engine."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      These are my few Publications in various conferences and journals.
     papers:
       - title: Auction-Based Optimal Task Offloading in Mobile Cloud Computing
         link: "https://ieeexplore.ieee.org/document/8716520"
         authors: Achuthananda M P, Sudip Misra , Sankar N. Das
-        conference: Addison-Wesley, 1968
+        conference: "IEEE Systems Journal ( Volume: 13, Issue: 3, Sept. 2019)"
 
       - title: "Situation-Aware Protocol Switching in Software-Defined Wireless Sensor Network Systems"
         link: "https://ieeexplore.ieee.org/document/8207582/footnotes#footnotes"
@@ -158,20 +156,17 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: CDN & Internet Technologies
+      - name: Content Distribution Networks
         level: 90%
 
       - name: Python & Flask
-        level: 85%
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 70%
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 70%
-
-      - name: C++ 
-        level: 60%
+        level: 75%
 
       - name: Algorithms
         level: 70%
