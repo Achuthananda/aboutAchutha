@@ -101,7 +101,7 @@ experiences:
           - Dynamic generation of Yang models for the new protocols which will be used to manage the network devices.
     - role: Senior Software Engineer
       time: 2010 Aug - 2013 Dec
-      company: Cisco Systems, Bengaluru
+      company: Samsung Research Institute Bangalore
       details: |
         I worked as Software Developer working on UPnP and DLNA for Samsung Smart Devices of Home Network.
           - Worked on implementing UPnP based framework, which provides an easier way to connect and communicate between the smart devices in the home network on Android Phones, Tizen Phonesand Samsung Smart TVs.
