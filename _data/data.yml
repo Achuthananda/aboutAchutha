@@ -121,15 +121,23 @@ projects:
         tagline: "A framework to pull covid data and build graphs about vaccination/recovery/confirmed cases in Bangalore and Koalr and to tweet daily."
 
       - title: Cowin Slots Notifier
-        link: "#"
+        link: "https://github.com/Achuthananda/CowinSlotNotifier"
         tagline: "The notifier runs every 3 seconds on desired District/Pincode to see the slots availability and notifies on Telegram"
 
+      - title: India News Notifier
+        link: "https://github.com/Achuthananda/IndiaNewsNotifier"
+        tagline: "Fetches the news related to Inda and notifies on Telegram"
+
+      - title: Motivational Quotes to Inspire
+        link: "https://github.com/Achuthananda/QuotesNotifier"
+        tagline: "Pings various motivational quotes on Telegram"
+
       - title: TTD Notifications
-        link: "#"
-        tagline: "This project is to notify the piligrims about the Tirumala Tirupathi Temple ticket availability in various messnegers like webex/telegram."
+        link: "https://github.com/Achuthananda/TirumalaTicketsNotifier"
+        tagline: "This project is to notify the piligrims about the Tirumala Tirupathi Temple seva ticket availability in various messnegers like webex/telegram."
 
       - title: Reality Show Bulk Voter
-        link: "#"
+        link: "https://github.com/Achuthananda/KannadaBigBossVoting"
         tagline: "The project was to aim bulk voting for any contestant in a popular reality show. This project did make use of un-implemnted rate controls of the website."
 
       - title: URL Shortner
