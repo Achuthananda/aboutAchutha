@@ -122,7 +122,7 @@ projects:
 
       - title: Cowin Slots Notifier
         link: "https://github.com/Achuthananda/CowinSlotNotifier"
-        tagline: "The notifier runs every 3 seconds on desired District/Pincode to see the slots availability and notifies on Telegram"
+        tagline: "The notifier runs every 3 seconds on desired District/Pincode to see the vaccine slots of India availability and notifies on Telegram"
 
       - title: India News Notifier
         link: "https://github.com/Achuthananda/IndiaNewsNotifier"
