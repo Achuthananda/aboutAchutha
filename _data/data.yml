@@ -70,7 +70,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Solutions Architect II
+    - role: Senior Solutions Architect
       time: 2019 Feb - Present
       company: Akamai Technologies , Bengaluru
       details: |
@@ -164,6 +164,9 @@ skills:
     toolset:
       - name: Content Distribution Networks
         level: 90%
+
+      - name: Cloud Technologies
+        level: 70%
 
       - name: Python & Flask
         level: 90%
